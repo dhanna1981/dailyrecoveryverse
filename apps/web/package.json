@@ -1,0 +1,1 @@
+{\n  "name": "web",\n  "version": "1.0.0",\n  "main": "pages/index.tsx",\n  "dependencies": {\n    "next": "^14.0.0",\n    "react": "^18.2.0",\n    "react-dom": "^18.2.0",\n    "firebase": "^10.7.0"\n  }\n}
