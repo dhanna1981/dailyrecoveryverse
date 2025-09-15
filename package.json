@@ -1,0 +1,1 @@
+{\n  "name": "dailyrecoveryverse",\n  "private": true,\n  "workspaces": [\n    "apps/*",\n    "packages/*"\n  ],\n  "scripts": {\n    "start:web": "yarn workspace web dev",\n    "start:mobile": "yarn workspace mobile start"\n  }\n}
